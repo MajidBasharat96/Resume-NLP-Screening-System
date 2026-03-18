@@ -1,0 +1,9 @@
+flask
+spacy
+nltk
+transformers
+torch
+scikit-learn
+pandas
+pdfminer.six
+python-docx
